@@ -1,0 +1,202 @@
+WEBVTT
+
+1
+00:00:01.860 --> 00:00:04.259
+hello and welcome to our visualization
+
+2
+00:00:04.259 --> 00:00:06.180
+demonstration surrounding food
+
+3
+00:00:06.180 --> 00:00:08.460
+insecurity in the United States right
+
+4
+00:00:08.460 --> 00:00:10.500
+now you're looking at our homepage and
+
+5
+00:00:10.500 --> 00:00:12.660
+to see our visualizations you can go to
+
+6
+00:00:12.660 --> 00:00:15.299
+the menu in the top left corner and
+
+7
+00:00:15.299 --> 00:00:18.660
+select map analysis and exploration or
+
+8
+00:00:18.660 --> 00:00:21.119
+poverty rate analysis first we'll look
+
+9
+00:00:21.119 --> 00:00:23.699
+at the map so we've plotted
+
+10
+00:00:23.699 --> 00:00:25.560
+the food deserts across the United
+
+11
+00:00:25.560 --> 00:00:28.140
+States the size of the point is
+
+12
+00:00:28.140 --> 00:00:30.180
+dependent on the county population and
+
+13
+00:00:30.180 --> 00:00:31.800
+the luminance of the point is dependent
+
+14
+00:00:31.800 --> 00:00:34.140
+on the County's severity of food
+
+15
+00:00:34.140 --> 00:00:35.239
+insecurity
+
+16
+00:00:35.239 --> 00:00:37.440
+below we look at the relationship
+
+17
+00:00:37.440 --> 00:00:39.780
+between food insecurity and County
+
+18
+00:00:39.780 --> 00:00:41.160
+population
+
+19
+00:00:41.160 --> 00:00:43.020
+food insecurity and the percentage of
+
+20
+00:00:43.020 --> 00:00:45.719
+the county receiving SNAP benefits and
+
+21
+00:00:45.719 --> 00:00:47.640
+food insecurity against the percentage
+
+22
+00:00:47.640 --> 00:00:50.820
+of the county without access to vehicles
+
+23
+00:00:50.820 --> 00:00:53.520
+if you brush over the map you'll see the
+
+24
+00:00:53.520 --> 00:00:55.620
+Scatter Plots below change
+
+25
+00:00:55.620 --> 00:00:58.379
+we have tooltip functionality on the
+
+26
+00:00:58.379 --> 00:01:00.480
+Scatter Plots that allows you to see the
+
+27
+00:01:00.480 --> 00:01:03.480
+county name state name population and
+
+28
+00:01:03.480 --> 00:01:05.159
+severity percentage
+
+29
+00:01:05.159 --> 00:01:07.740
+to reset the selection you can click the
+
+30
+00:01:07.740 --> 00:01:09.840
+button up here in the top left
+
+31
+00:01:09.840 --> 00:01:12.000
+and it will update the Scatter Plots
+
+32
+00:01:12.000 --> 00:01:12.720
+again
+
+33
+00:01:12.720 --> 00:01:14.820
+for further exploration of the map you
+
+34
+00:01:14.820 --> 00:01:16.920
+can click map exploration
+
+35
+00:01:16.920 --> 00:01:19.140
+and you'll see the same map again but
+
+36
+00:01:19.140 --> 00:01:23.040
+now you can zoom in and hover for
+
+37
+00:01:23.040 --> 00:01:25.140
+tool tips to see more information about
+
+38
+00:01:25.140 --> 00:01:27.060
+the graph
+
+39
+00:01:27.060 --> 00:01:29.759
+now our last visualization
+
+40
+00:01:29.759 --> 00:01:33.000
+is the poverty rate analysis here you
+
+41
+00:01:33.000 --> 00:01:36.659
+can see the relationship between food
+
+42
+00:01:36.659 --> 00:01:40.020
+insecurity versus poverty rate and the
+
+43
+00:01:40.020 --> 00:01:42.060
+luminance of the points is dependent on
+
+44
+00:01:42.060 --> 00:01:43.320
+the percentage of the population
+
+45
+00:01:43.320 --> 00:01:46.439
+receiving SNAP benefits we have the
+
+46
+00:01:46.439 --> 00:01:49.200
+tooltip functionality again on this
+
+47
+00:01:49.200 --> 00:01:51.600
+graph and we also have the option to
+
+48
+00:01:51.600 --> 00:01:54.920
+filter for a specific state
+
+49
+00:01:56.640 --> 00:01:58.439
+thank you so much and we hope you
+
+50
+00:01:58.439 --> 00:02:00.740
+enjoyed
+
